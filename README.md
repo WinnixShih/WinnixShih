@@ -1,7 +1,7 @@
 - 👋 Hallo! I’m @WinnixShih
-- 👀 I’m now Studied at Department of Atmosphere
-- 🌱 Currently learning Python & C++
-- My goal is to become a software engineer in the future, and now I'm trying to learn more coding and programming.
+- 👀 I’m now Studied at Department of Atmosphere in NTU
+- 🌱 Currently learning Front-end and Back-end
+- My goal is to become a full stack developer, and make many interest and fun app.
 
 <!---
 WinnixShih/WinnixShih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
